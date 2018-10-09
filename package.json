@@ -1,0 +1,17 @@
+{
+  "name": "canvas-extract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adl-xapiwrapper": "^0.2.3",
+    "aws-sdk": "^2.302.0",
+    "https": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
